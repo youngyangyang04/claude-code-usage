@@ -14,7 +14,7 @@
 
 先打开 [中转服务站点](https://apidock.ai/)，完成账号注册，再在控制台创建自己的 API Key。
 
-![中转站令牌管理界面](https://file1.kamacoder.com/i/web/2026-07-25_16-54-20.jpg)
+![中转站令牌管理界面](./images/apidock-api-key-management.jpg)
 
 接入前，先在后台确认三项：
 
@@ -91,7 +91,7 @@ claude-apidock
 
 能看到启动界面，只说明程序启动了；**正常完成请求并查到调用记录，才算这次接入验证完成。**
 
-![](https://file1.kamacoder.com/i/web/20261018155111-b35w1e.png)
+![Claude Code 接入验证界面](./images/claude-code-connection-check.png)
 
 ## 接通以后，怎么用 Claude Code 写项目？
 
