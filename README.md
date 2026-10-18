@@ -1,7 +1,8 @@
 # 【亲测可用】2026国内如何使用 Claude Code？安装与接入教程
 
+> 本文更新与 2026年10月18日，以下亲测国内可以跑通使用Claude code 的方法，仅供参考：
 
-如果你主要想让 Claude Code 读项目、解释代码、改 Bug，可以采用这条接入路径：**可以先在 [中转站](https://apidock.ai/) 创建 API Key，通过一键工具配置 Claude Code**
+如果你主要想让 Claude Code 读项目、解释代码、改 Bug，可以采用这条接入路径：**可以先在 [中转服务站点](https://apidock.ai/) 创建 API Key，通过一键工具配置 Claude Code**
 
 下面按 Windows、macOS、Linux 分别写清楚。只想先装起来的读者，可以直接看安装步骤。
 
